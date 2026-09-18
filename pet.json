@@ -1,0 +1,7 @@
+{
+  "id": "video-red-pet",
+  "displayName": "糖梅宝宝",
+  "description": "按参考视频原样提取的糖梅宝宝：原地快速飞行，不响应点击或鼠标方向。",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.png"
+}
