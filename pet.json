@@ -1,7 +1,7 @@
 {
   "id": "video-red-pet",
   "displayName": "糖梅宝宝",
-  "description": "按参考视频提取并匹配游戏暗红色调的糖梅宝宝：原地快速飞行，不响应点击或鼠标方向。",
+  "description": "使用游戏 Wiki 原版像素素材与待机帧参数重建：清晰原地飞行，不响应点击或鼠标方向。",
   "spriteVersionNumber": 2,
   "spritesheetPath": "spritesheet.png"
 }
