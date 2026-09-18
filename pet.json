@@ -1,7 +1,7 @@
 {
   "id": "video-red-pet",
   "displayName": "糖梅宝宝",
-  "description": "使用游戏 Wiki 原版像素素材与待机帧参数重建：清晰原地飞行，不响应点击或鼠标方向。",
+  "description": "使用游戏 Wiki 原版像素素材与动画参数重建：原地飞行，每次单击都会挥手一次。",
   "spriteVersionNumber": 2,
   "spritesheetPath": "spritesheet.png"
 }

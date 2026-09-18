@@ -2,13 +2,16 @@
 
 # 糖梅宝宝 · Codex 桌宠
 
-一只使用游戏原版像素素材重建、会在桌面上原地飞行的糖梅宝宝。
+一只使用游戏原版像素素材重建、会在桌面上原地飞行，也会回应你点击的糖梅宝宝。
 
 ![Codex Pet](https://img.shields.io/badge/Codex-Pet-111827?style=for-the-badge)
 ![Sprite v2](https://img.shields.io/badge/Sprite-v2-b31217?style=for-the-badge)
 ![MIT License](https://img.shields.io/badge/License-MIT-2ea44f?style=for-the-badge)
 
 <img src="assets/preview.webp" width="192" alt="糖梅宝宝原地飞行动画预览">
+
+<p><strong>单击一次，挥手一次：</strong></p>
+<img src="assets/wave-preview.webp" width="192" alt="糖梅宝宝单击挥手动画预览">
 
 </div>
 
@@ -18,7 +21,8 @@
 - 按照原版 `30 FPS / 16 帧` 待机参数原地飞行
 - 保留连续的暗红阴影和黑色像素轮廓
 - 无半透明毛边、显示器扫描条纹或灰色背景残留
-- 不响应点击，也不跟随鼠标方向，保持安静的待机桌宠体验
+- 每次单击播放一轮原版挥手动作，结束后自动回到飞行待机
+- 不跟随鼠标方向，平时保持安静的原地飞行
 - 符合 Codex `spriteVersionNumber: 2` 桌宠格式
 
 ## 📦 安装
@@ -52,6 +56,7 @@
 | 待机帧数 | 16 帧 |
 | 帧率 | 30 FPS |
 | 循环时长 | 约 0.53 秒 |
+| 单击互动 | 4 段挥手，约 0.70 秒，播放一次 |
 | 缩放方式 | Nearest-neighbor 像素缩放 |
 
 ## 🗂️ 文件说明
@@ -61,6 +66,7 @@
 | `pet.json` | 桌宠名称、描述和 Codex v2 配置 |
 | `spritesheet.png` | 带透明通道的 8×11 动画图集 |
 | `assets/preview.webp` | README 中使用的动画预览 |
+| `assets/wave-preview.webp` | 单击挥手互动预览 |
 | `LICENSE` | 项目原创配置与文档的 MIT License |
 | `THIRD_PARTY_NOTICES.md` | 第三方游戏美术素材声明 |
 
