@@ -1,7 +1,7 @@
 {
   "id": "video-red-pet",
   "displayName": "糖梅宝宝",
-  "description": "使用游戏 Wiki 原版像素素材与动画参数重建：原地飞行，每次单击都会挥手一次。",
+  "description": "使用游戏 Wiki 原版像素素材与动画参数重建：原地飞行，鼠标悬停时挥手。",
   "spriteVersionNumber": 2,
   "spritesheetPath": "spritesheet.png"
 }
